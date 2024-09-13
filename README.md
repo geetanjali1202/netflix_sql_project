@@ -44,7 +44,7 @@ description VARCHAR(250)
 SELECT * FROM netflix;
 ```
 
-## Business Problems and Solutions
+## Data Preprocessing and Cleaning
 
 ### 1. Create a new table from existing raw table with below mentioned columns
 
